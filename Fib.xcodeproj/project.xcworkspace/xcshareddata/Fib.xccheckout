@@ -12,17 +12,13 @@
 	<dict>
 		<key>9B981D39C721F3F3403A3FEAB4BBDC6F1893032F</key>
 		<string>https://github.com/Rab-b1t/Fib-Client.git</string>
-		<key>E1F0046EB9541CF420DA6328FB69B57E0F8482C0</key>
-		<string>https://github.com/vijaypemmaraju/Fib.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Fib/Fib.xcodeproj</string>
+	<string>Fib.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>9B981D39C721F3F3403A3FEAB4BBDC6F1893032F</key>
-		<string>../../..</string>
-		<key>E1F0046EB9541CF420DA6328FB69B57E0F8482C0</key>
-		<string>../../../..</string>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/Rab-b1t/Fib-Client.git</string>
@@ -32,14 +28,6 @@
 	<string>9B981D39C721F3F3403A3FEAB4BBDC6F1893032F</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
-		<dict>
-			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
-			<string>public.vcs.git</string>
-			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>E1F0046EB9541CF420DA6328FB69B57E0F8482C0</string>
-			<key>IDESourceControlWCCName</key>
-			<string></string>
-		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
